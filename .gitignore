@@ -1,0 +1,9 @@
+#ignorar archivos de video
+.mp4
+
+#ignorar audios
+.mp3
+
+#ignorar imagenes
+.jpg
+
